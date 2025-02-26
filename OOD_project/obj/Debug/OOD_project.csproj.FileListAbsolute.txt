@@ -141,3 +141,19 @@ E:\Object Oriented Design\OOD Project files\VS Project\OOD_project\OOD_project\o
 E:\Object Oriented Design\OOD Project files\VS Project\OOD_project\OOD_project\obj\Debug\OOD_project.csproj.CoreCompileInputs.cache
 E:\Object Oriented Design\OOD Project files\VS Project\OOD_project\OOD_project\obj\Debug\OOD_project.exe
 E:\Object Oriented Design\OOD Project files\VS Project\OOD_project\OOD_project\obj\Debug\OOD_project.pdb
+D:\eLMS\OOD_project\bin\Debug\Database1.mdf
+D:\eLMS\OOD_project\bin\Debug\Database1_log.ldf
+D:\eLMS\OOD_project\bin\Debug\OOD_project.exe.config
+D:\eLMS\OOD_project\bin\Debug\OOD_project.exe
+D:\eLMS\OOD_project\bin\Debug\OOD_project.pdb
+D:\eLMS\OOD_project\obj\Debug\OOD_project.csproj.AssemblyReference.cache
+D:\eLMS\OOD_project\obj\Debug\OOD_project.Adminfrm.resources
+D:\eLMS\OOD_project\obj\Debug\OOD_project.Loginfrm.resources
+D:\eLMS\OOD_project\obj\Debug\OOD_project.Properties.Resources.resources
+D:\eLMS\OOD_project\obj\Debug\OOD_project.Registerfrm.resources
+D:\eLMS\OOD_project\obj\Debug\OOD_project.Studentdashfrm.resources
+D:\eLMS\OOD_project\obj\Debug\OOD_project.Teacherdashfrm.resources
+D:\eLMS\OOD_project\obj\Debug\OOD_project.csproj.GenerateResource.cache
+D:\eLMS\OOD_project\obj\Debug\OOD_project.csproj.CoreCompileInputs.cache
+D:\eLMS\OOD_project\obj\Debug\OOD_project.exe
+D:\eLMS\OOD_project\obj\Debug\OOD_project.pdb
